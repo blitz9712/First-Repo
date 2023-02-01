@@ -9,6 +9,7 @@ contributors:
 4.HHashem
 5.Ariv
 
+Krish - Are you guys understanding this?
 
 Hello GDSC
 
